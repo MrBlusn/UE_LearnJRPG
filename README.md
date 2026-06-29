@@ -127,7 +127,7 @@ LearnJRPG/
 
 2. **安装 PaperZD 插件**
    - 在 Epic Games Launcher 中前往 Marketplace
-   - 搜索 "PaperZD" 并安装到 UE 5.6 引擎
+   - 搜索 "PaperZD" 并安装到 UE 5.4 引擎
 
 3. **打开项目**
    - 双击 `LearnJRPG.uproject` 打开项目
@@ -177,4 +177,4 @@ LearnJRPG/
 
 ---
 
-*Made with Unreal Engine 5.6 & BluePrint Visual Scripting*
+*Made with Unreal Engine 5.4 & BluePrint Visual Scripting*
