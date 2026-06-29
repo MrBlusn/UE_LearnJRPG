@@ -113,7 +113,7 @@ LearnJRPG/
 
 ### 环境要求
 
-- **Unreal Engine 5.4** 或更高版本
+- **Unreal Engine 5.6** 或更高版本
 - **Windows 10/11** (推荐) 或 Linux
 - **Visual Studio 2022** (Windows 编译)
 - 从 Epic Marketplace 安装 **PaperZD** 插件
@@ -177,4 +177,4 @@ LearnJRPG/
 
 ---
 
-*Made with Unreal Engine 5.4 & BluePrint Visual Scripting*
+*Made with Unreal Engine 5.6 & BluePrint Visual Scripting*
