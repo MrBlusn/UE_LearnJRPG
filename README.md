@@ -1,9 +1,9 @@
 # LearnJRPG
 
-> 一个使用 **Unreal Engine 5.6** 与 **BluePrint** 构建的像素风格日式回合制 RPG 游戏。
+> 一个使用 **Unreal Engine 5.4** 与 **BluePrint** 构建的像素风格日式回合制 RPG 游戏。
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Engine-Unreal%20Engine%205.6-blue?logo=unrealengine" alt="Unreal Engine 5.6">
+  <img src="https://img.shields.io/badge/Engine-Unreal%20Engine%205.6-blue?logo=unrealengine" alt="Unreal Engine 5.4">
   <img src="https://img.shields.io/badge/Language-C%2B%2B%20%2F%20BluePrint-orange" alt="C++ / BluePrint">
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey" alt="Windows | Linux">
 </p>
@@ -127,7 +127,7 @@ LearnJRPG/
 
 2. **安装 PaperZD 插件**
    - 在 Epic Games Launcher 中前往 Marketplace
-   - 搜索 "PaperZD" 并安装到 UE 5.6 引擎
+   - 搜索 "PaperZD" 并安装到 UE 5.4 引擎
 
 3. **打开项目**
    - 双击 `LearnJRPG.uproject` 打开项目
